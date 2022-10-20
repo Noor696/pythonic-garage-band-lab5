@@ -19,7 +19,7 @@ by Useing Python classes to model a Band made up of different kinds of musicians
 Start with Guitarist,Bassist, and Drummer. (sub classes)
 
 **lab solution on file**
-  - [classes](./pythonic_garage_band/band.py)
+  - [band.py](./pythonic_garage_band/band.py)
 
 
-**pull request link :** 
+**pull request link :** https://github.com/Noor696/pythonic-garage-band-lab5/pull/1
